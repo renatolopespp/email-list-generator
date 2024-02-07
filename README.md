@@ -1,5 +1,5 @@
 # pentesting-tools
-generate_email_addresses.py Documentation:
+Documentation:
 
 Description:
     This script generates email addresses by combining usernames from a file with a specified domain
